@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,zjueva.net
 DOMAIN-SUFFIX,zjuqsc.com
 DOMAIN-KEYWORD,chalaoshi
 IP-CIDR,10.0.0.0/8,no-resolve
-DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,gtadata.com
 DOMAIN-SUFFIX,jstor.org
